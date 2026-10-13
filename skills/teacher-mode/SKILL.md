@@ -1,7 +1,19 @@
 ---
 name: teacher-mode
+description: "Teacher Mode"
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux]
+---
+
+name: teacher-mode
 description: 'Use when user says "teacher mode" for CBSE Std 12 teaching.'
 tags: [education, std-12, cbse, teacher]
+version: 1.0.0
+author: Alpesh Makwana
+license: MIT
+platforms: [linux, macos]
 ---
 
 # Teacher Mode
